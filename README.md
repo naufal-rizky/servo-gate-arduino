@@ -1,7 +1,5 @@
 # Palang Pintu Otomatis Menggunakan SimulIDE
 
-## Deskripsi Proyek
-
 Proyek ini adalah simulasi palang pintu otomatis menggunakan SimulIDE. Palang pintu akan dikendalikan oleh Arduino Uno dan servo motor. Terdapat juga tujuh segmen display untuk menampilkan informasi jumlah tempat parkir yang tersedia. Dua tombol (switch) digunakan untuk simulasi kendaraan masuk dan keluar dari area parkir.
 
 ## Komponen
