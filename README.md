@@ -32,7 +32,3 @@ Proyek ini adalah simulasi palang pintu otomatis menggunakan SimulIDE. Palang pi
 Diagram rangkaian dapat dilihat pada file simulasi yang telah disediakan (contoh: `pg.sim1`).
 
 Anda dapat berkontribusi dengan memberikan saran atau melakukan perbaikan pada proyek ini. Silakan buat _pull request_ atau laporkan _issue_ jika ada perbaikan yang perlu dilakukan.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [lisensi MIT](LICENSE). Silakan lihat berkas LICENSE untuk informasi lebih lanjut.
