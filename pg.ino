@@ -5,8 +5,8 @@ Servo myservo; // create servo object to control a servo
 #define Keluar 3 // Pin connected to the EXIT button.
 #define Masuk 5  // Pin connected to the IN button.
 
-#define BarLow 177  // Low position of the barrier.
-#define BarUp 95    // Up position of the barrier.
+#define BarLow 180  // Low position of the barrier.
+#define BarUp 93    // Up position of the barrier.
 #define Kapasitas 0 // Capacity of the parking lot.
 #define INTEN 80    // Display intensity %
 
