@@ -114,7 +114,7 @@ void loop()
         if (buttonStateKeluar == LOW)
         {
             Tersedia++;
-            if (Tersedia < 0)
+            if (Tersedia > 99)
             {
                 Tersedia = Kapasitas; // Reset counter after reaching capacity
             }
